@@ -1,1 +1,1 @@
-npm install axios bootstrap prop-types react-dom react-redux react-router-dom reactstrap redux redux-persist redux- thunk
+npm install axios bootstrap prop-types react-dom react-redux react-router-dom reactstrap redux redux-persist redux-thunk
